@@ -1,9 +1,8 @@
 {
-    "name": "rguedes/pdfmerger",
-    "version": "1.0.4",
+    "name": "dmidpal/pdfmerger",
     "description": "PDFMerger for PHP",
     "keywords": ["PHP", "PDF"],
-    "homepage": "https://github.com/rguedes/PDFMerger",
+    "homepage": "https://github.com/dmidpal/PDFMerger",
     "type": "library",
     "license": "LGPL-3.0-or-later",
     "authors": [{
@@ -20,5 +19,6 @@
         "psr-0": {
             "PDFMerger": "Classes/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
